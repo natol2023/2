@@ -1,0 +1,11 @@
+.redclass{
+    width: 200px;
+    height: 200px;
+    background-color: lightpink;
+    color: red;
+    font-weight: bold;
+}
+h3{
+    text-decoration: underline;
+   text-transform: uppercase;
+}
